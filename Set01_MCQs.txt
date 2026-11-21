@@ -1,0 +1,28 @@
+SET 1 — Swiggy Instamart - Orders
+Part B answer key
+
+Q01 [MCQ]  B
+Q02 [MCQ]  B
+Q03 [MSQ]  A,C,D
+Q04 [MCQ]  A
+Q05 [MCQ]  B
+Q06 [MCQ]  B
+Q07 [MCQ]  A
+Q08 [MCQ]  B
+Q09 [MCQ]  B
+Q10 [MCQ]  B
+Q11 [MCQ]  C
+Q12 [MCQ]  B
+Q13 [MSQ]  A,B
+Q14 [MCQ]  B
+Q15 [MCQ]  C
+Q16 [MCQ]  A
+Q17 [MCQ]  B
+Q18 [MCQ]  B
+Q19 [MSQ]  A,B,C
+Q20 [MCQ]  B
+Q21 [MCQ]  B
+Q22 [MCQ]  B
+Q23 [MCQ]  B
+Q24 [MCQ]  B
+Q25 [MCQ]  B

@@ -1,0 +1,28 @@
+SET 2 — Ola Cabs - Rides & Drivers
+Part B answer key
+
+Q01 [MCQ]  B
+Q02 [MCQ]  B
+Q03 [MCQ]  B
+Q04 [MCQ]  B
+Q05 [MCQ]  C
+Q06 [MCQ]  C
+Q07 [MCQ]  B
+Q08 [MCQ]  B
+Q09 [MCQ]  A
+Q10 [MSQ]  A,B,C
+Q11 [MSQ]  A,B
+Q12 [MCQ]  B
+Q13 [MCQ]  B
+Q14 [MCQ]  A
+Q15 [MCQ]  C
+Q16 [MCQ]  B
+Q17 [MSQ]  A,C,D
+Q18 [MCQ]  B
+Q19 [MCQ]  B
+Q20 [MCQ]  B
+Q21 [MCQ]  A
+Q22 [MCQ]  C
+Q23 [MCQ]  B
+Q24 [MCQ]  B
+Q25 [MCQ]  B

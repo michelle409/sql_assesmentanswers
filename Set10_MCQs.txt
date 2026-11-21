@@ -1,0 +1,28 @@
+SET 10 — Netflix - Streaming Platform
+Part B answer key
+
+Q01 [MCQ]  C
+Q02 [MSQ]  A,B
+Q03 [MCQ]  B
+Q04 [MSQ]  A,B,D
+Q05 [MCQ]  B
+Q06 [MCQ]  B
+Q07 [MCQ]  A
+Q08 [MCQ]  B
+Q09 [MSQ]  A,B,C
+Q10 [MCQ]  B
+Q11 [MCQ]  B
+Q12 [MCQ]  B
+Q13 [MCQ]  B
+Q14 [MCQ]  B
+Q15 [MCQ]  B
+Q16 [MCQ]  B
+Q17 [MCQ]  B
+Q18 [MCQ]  C
+Q19 [MCQ]  D
+Q20 [MCQ]  A
+Q21 [MCQ]  B
+Q22 [MCQ]  A
+Q23 [MCQ]  B
+Q24 [MCQ]  A
+Q25 [MCQ]  B

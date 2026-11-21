@@ -1,0 +1,28 @@
+SET 13 — Byju's - Online Learning Platform
+Part B answer key
+
+Q01 [MSQ]  A,C,D
+Q02 [MCQ]  B
+Q03 [MCQ]  B
+Q04 [MCQ]  A
+Q05 [MCQ]  B
+Q06 [MCQ]  B
+Q07 [MCQ]  B
+Q08 [MCQ]  B
+Q09 [MSQ]  A,B,C
+Q10 [MCQ]  A
+Q11 [MCQ]  B
+Q12 [MCQ]  B
+Q13 [MCQ]  A
+Q14 [MCQ]  A
+Q15 [MCQ]  B
+Q16 [MCQ]  A
+Q17 [MSQ]  A,B
+Q18 [MCQ]  A
+Q19 [MCQ]  B
+Q20 [MCQ]  B
+Q21 [MCQ]  C
+Q22 [MCQ]  B
+Q23 [MCQ]  A
+Q24 [MCQ]  B
+Q25 [MCQ]  A

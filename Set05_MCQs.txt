@@ -1,0 +1,28 @@
+SET 5 — Zomato - Restaurants & Reviews
+Part B answer key
+
+Q01 [MCQ]  B
+Q02 [MCQ]  B
+Q03 [MCQ]  B
+Q04 [MSQ]  A,B,C
+Q05 [MCQ]  B
+Q06 [MCQ]  B
+Q07 [MCQ]  B
+Q08 [MCQ]  B
+Q09 [MCQ]  B
+Q10 [MCQ]  B
+Q11 [MSQ]  A,B,C
+Q12 [MCQ]  C
+Q13 [MCQ]  B
+Q14 [MCQ]  B
+Q15 [MCQ]  B
+Q16 [MCQ]  B
+Q17 [MCQ]  A
+Q18 [MCQ]  A
+Q19 [MCQ]  C
+Q20 [MSQ]  A,C,D
+Q21 [MCQ]  B
+Q22 [MCQ]  C
+Q23 [MCQ]  D
+Q24 [MCQ]  B
+Q25 [MCQ]  A

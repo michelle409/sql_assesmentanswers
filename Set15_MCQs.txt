@@ -1,0 +1,28 @@
+SET 15 — Rapido - Bike Taxi
+Part B answer key
+
+Q01 [MCQ]  A
+Q02 [MCQ]  B
+Q03 [MCQ]  B
+Q04 [MCQ]  B
+Q05 [MCQ]  B
+Q06 [MCQ]  B
+Q07 [MCQ]  B
+Q08 [MCQ]  B
+Q09 [MCQ]  A
+Q10 [MCQ]  B
+Q11 [MCQ]  D
+Q12 [MSQ]  A,B,D
+Q13 [MCQ]  C
+Q14 [MSQ]  A,B
+Q15 [MSQ]  A,B,C
+Q16 [MCQ]  B
+Q17 [MCQ]  B
+Q18 [MCQ]  B
+Q19 [MCQ]  B
+Q20 [MCQ]  B
+Q21 [MCQ]  B
+Q22 [MCQ]  C
+Q23 [MCQ]  A
+Q24 [MCQ]  B
+Q25 [MCQ]  B

@@ -1,0 +1,28 @@
+SET 11 — PhonePe - UPI Payment Metadata
+Part B answer key
+
+Q01 [MCQ]  A
+Q02 [MCQ]  B
+Q03 [MCQ]  B
+Q04 [MCQ]  B
+Q05 [MCQ]  C
+Q06 [MCQ]  B
+Q07 [MCQ]  C
+Q08 [MCQ]  B
+Q09 [MCQ]  B
+Q10 [MCQ]  A
+Q11 [MCQ]  B
+Q12 [MCQ]  C
+Q13 [MCQ]  B
+Q14 [MCQ]  A
+Q15 [MSQ]  A,B
+Q16 [MCQ]  C
+Q17 [MCQ]  A
+Q18 [MCQ]  B
+Q19 [MSQ]  A,B,C
+Q20 [MCQ]  C
+Q21 [MSQ]  A,B,C
+Q22 [MCQ]  C
+Q23 [MCQ]  B
+Q24 [MCQ]  A
+Q25 [MCQ]  A

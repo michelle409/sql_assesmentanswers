@@ -1,0 +1,28 @@
+SET 7 — Flipkart - Catalog & Orders
+Part B answer key
+
+Q01 [MCQ]  B
+Q02 [MCQ]  A
+Q03 [MCQ]  A
+Q04 [MCQ]  C
+Q05 [MCQ]  B
+Q06 [MSQ]  A,B,D
+Q07 [MCQ]  B
+Q08 [MCQ]  B
+Q09 [MCQ]  B
+Q10 [MCQ]  B
+Q11 [MCQ]  B
+Q12 [MCQ]  B
+Q13 [MSQ]  A,B
+Q14 [MCQ]  B
+Q15 [MCQ]  B
+Q16 [MCQ]  B
+Q17 [MSQ]  A,B,C
+Q18 [MCQ]  B
+Q19 [MCQ]  D
+Q20 [MCQ]  D
+Q21 [MCQ]  B
+Q22 [MCQ]  B
+Q23 [MCQ]  B
+Q24 [MCQ]  B
+Q25 [MCQ]  B
